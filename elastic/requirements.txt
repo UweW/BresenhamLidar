@@ -1,7 +1,0 @@
-eland==8.0.0b1
-elasticsearch==8.0.0a4
-numpy==1.22.1
-pandas==1.3.5
-requests==2.27.1
-urllib3==1.26.8
-pytest==6.2.5
